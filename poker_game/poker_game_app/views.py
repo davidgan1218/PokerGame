@@ -15,8 +15,8 @@ import random, json
 @api_view(['GET'])
 def index(request):
     """The home page for poker_game_app"""
-    #return Response({"test": "test"})
-    return render(request, 'poker_game_app/index.html')
+    return Response({"test": "test"})
+    #return render(request, 'poker_game_app/index.html')
 
 def get_deck():
     deck = ['AH', 'AD', 'AC', 'AS', 'KH', 'KD', 'KC', 'KS', 'QH', 'QD', 'QC', 'QS', 'JH', 'JD', 
