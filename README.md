@@ -1,1 +1,1 @@
-NEW LOCATION OF POKER GAME: https://github.com/davidgan1218/Poker-Game
+New location of poker game: https://github.com/davidgan1218/Poker-Game
